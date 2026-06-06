@@ -1,6 +1,9 @@
 # Análisis de la Polarización Ideológica en Redes Sociales a partir de la Propagación de Contenidos Desinformativos
 
+Daniel Bahrami Planchuelo 100384032
+
 Asignatura: Tratamiento de Datos — Máster de Ingeniería de Telecomunicación
+
 Dataset: PHEME — Rumour Detection and Veracity Classification
 
 ---
