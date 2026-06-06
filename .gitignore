@@ -1,0 +1,26 @@
+# Dataset original (descargable desde Figshare)
+data/pheme-rnr-dataset/
+
+# Datos intermedios generados (se regeneran ejecutando los notebooks)
+data/processed/
+data/vectors/
+
+# Modelos entrenados (demasiado pesados para GitHub)
+models/
+
+# Entorno virtual y configuracion del IDE
+.venv/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
